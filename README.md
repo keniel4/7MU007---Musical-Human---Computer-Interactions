@@ -93,3 +93,5 @@ The users physical input from the buttons pressed, trigger the corresponding ban
 
 
 Lose:
+
+When the users timing falls out of time by 500ms it will trigger the metronome to count down for 20 secs and then display a x in the loose box if the user maintains timing for 20 secs then an x is displayed in the win box
