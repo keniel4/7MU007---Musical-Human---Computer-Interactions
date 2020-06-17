@@ -6,7 +6,10 @@ The idea behind this project is to create a children’s musical learning-based 
 PLEASE NOTE: You will need to download the three ZIP folders, wich will contain all the asociated images that correspond with the relevant section. The text will refere to these images throughout.
 
 
--WHAT YOUT WILL NEED:-
+
+
+
+==WHAT YOUT WILL NEED:==
 
 1 x Arduino Board
 
@@ -23,7 +26,9 @@ PLEASE NOTE: You will need to download the three ZIP folders, wich will contain 
 
 
 
--HOW TO BUILD YOUR OWN– (Configuring the hardware)
+
+
+==HOW TO BUILD YOUR OWN== (Configuring the hardware)
 
 
 Step 1:
@@ -60,7 +65,9 @@ The final setup should look like the image displayed with all the momentary butt
 
 
 
--PURE DATA PATCH COMPONENTS-
+
+
+==PURE DATA PATCH COMPONENTS==
 
 Graphic user Interface:
 The main graphic user interface is designed with the particular user in mind which is ages 4-7. Its visually pleasing for this purpose and must conveys as much information visually. The colours of the buttons correlate with the physical buttons. The user can see what’s being played by themselves and the computer. As the game is focused around timing and mimicking the drum sequences, this is important for the user to interpret on a visual level and an audio. The yellow box represents the Kick, the black box represents the snare and the green representing the hihat.
