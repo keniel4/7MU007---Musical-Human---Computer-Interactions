@@ -70,18 +70,22 @@ The final setup should look like the image displayed with all the momentary butt
 ==PURE DATA PATCH COMPONENTS==
 
 Graphic user Interface:
+
 The main graphic user interface is designed with the particular user in mind which is ages 4-7. Its visually pleasing for this purpose and must conveys as much information visually. The colours of the buttons correlate with the physical buttons. The user can see what’s being played by themselves and the computer. As the game is focused around timing and mimicking the drum sequences, this is important for the user to interpret on a visual level and an audio. The yellow box represents the Kick, the black box represents the snare and the green representing the hihat.
 
 
 St/Stp - Level Select:
+
 From the section of the patch the user can select the midi file with the level of complexity ranging from 1 to 3. The user can also start and stop the sequence. The  midi file is loaded and read 
 
 
 Sequence Trigger Visual:
+
 The midi notes within the midi file are then received remotely, are then shown as bangs each box representing either the kick snare and hi-hat. 
 
 
 Sample Playback:
+
 The audio samples are triggered when they receive a bang from their corresponding colour. This allows the user to hear the sequence and see it in the flashing of the bangs. the timing information is then compared with the timing information of the user and the difference is used to then give the user a visual feedback via the Accuracy bar.
 
 
@@ -90,9 +94,11 @@ Arduino input:
 
 
 Manual Trigger Visual:
+
 The users physical input from the buttons pressed, trigger the corresponding bangs and it can be seen by the user so the timing is based around the user seeing that the buttons are pressed in time, so there is no audio triggered when the user presses a button it is only convey visual feedback. The timing information of the user is compared to the computer. 
 
 
 
 Lose:
+
 When the users timing falls out of time by 500ms it will trigger the metronome to count down for 20 secs and then display a x in the loose box if the user maintains timing for 20 secs then an x is displayed in the win box
