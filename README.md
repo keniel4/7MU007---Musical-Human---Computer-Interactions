@@ -4,3 +4,5 @@ The idea behind this project is to create a children’s musical learning-based 
 
 
 Please download all file
+
+You will need to download and install Pure Data 0.50.2 wich can be found at (https://puredata.info/downloads). Withing Pure data programme under the 'Help' menu select the 'find externals' option and further download externals COMPORT & then CYCLONE
