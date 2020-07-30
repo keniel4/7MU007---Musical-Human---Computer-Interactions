@@ -7,4 +7,4 @@ Please download all files
 
 You will need to download and install Pure Data 0.50.2 wich can be found at (https://puredata.info/downloads). Withing Pure data programme under the 'Help' menu select the 'find externals' option and further download externals COMPORT & then CYCLONE
 
-A demonstration video of the patch working can be downloaded form here: 
+A demonstration video of the patch working can be downloaded form here: https://drive.google.com/file/d/1ul02G_wqUCxWLeb17psUWWzfruzP3BUu/view?usp=sharing
